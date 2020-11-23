@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24be849e-18db-4df1-b967-8a69493fdd9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/api/bingAutosuggest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/api/isEmptyObj.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/api/searchArticle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/api/searchCardNews.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/api/searchTabNews.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/DetailedArticle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/FavoriteLink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/FavoriteMark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/FavoritePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/NewsCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/ResponsiveNavbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/SearchBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/SearchResultsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/SectionLabel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/SectionNewsPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/ShareModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/SwitchApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/myStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1ZYZlHwx5WppJrEZ7soE60TIggT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="13.10.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/opt/anaconda3/envs/csci571hw8/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63341/hw8react-express/client/public/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24be849e-18db-4df1-b967-8a69493fdd9a" name="Default Changelist" comment="" />
+      <created>1585018138084</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585018138084</updated>
+      <workItem from="1585018143545" duration="601000" />
+      <workItem from="1585018906417" duration="8947000" />
+      <workItem from="1585070406352" duration="2750000" />
+      <workItem from="1585091733645" duration="240000" />
+      <workItem from="1585093632551" duration="708000" />
+      <workItem from="1585097100763" duration="648000" />
+      <workItem from="1585152868825" duration="12000" />
+      <workItem from="1585152938746" duration="1049000" />
+      <workItem from="1585154068013" duration="1709000" />
+      <workItem from="1585237713011" duration="4744000" />
+      <workItem from="1585258775322" duration="31000" />
+      <workItem from="1585259964686" duration="11769000" />
+      <workItem from="1585344062749" duration="8271000" />
+      <workItem from="1585355072884" duration="1290000" />
+      <workItem from="1585411776080" duration="6375000" />
+      <workItem from="1585499520157" duration="33191000" />
+      <workItem from="1585586904001" duration="4353000" />
+      <workItem from="1585608292904" duration="5115000" />
+      <workItem from="1585672664354" duration="23331000" />
+      <workItem from="1585709721061" duration="11226000" />
+      <workItem from="1585786251816" duration="8853000" />
+      <workItem from="1585843641726" duration="23043000" />
+      <workItem from="1585931482705" duration="906000" />
+      <workItem from="1585949025354" duration="8727000" />
+      <workItem from="1585969572666" duration="14532000" />
+      <workItem from="1586017692707" duration="15565000" />
+      <workItem from="1586062360674" duration="6458000" />
+      <workItem from="1586120776723" duration="29653000" />
+      <workItem from="1586190481940" duration="57995000" />
+      <workItem from="1586362082066" duration="1743000" />
+      <workItem from="1586377062992" duration="9791000" />
+      <workItem from="1586389090875" duration="4000" />
+      <workItem from="1586389813677" duration="231000" />
+      <workItem from="1586390490040" duration="43000" />
+      <workItem from="1586390758639" duration="62000" />
+      <workItem from="1586391729438" duration="1051000" />
+      <workItem from="1586393031923" duration="66000" />
+      <workItem from="1586393863743" duration="83000" />
+      <workItem from="1586394233534" duration="38000" />
+      <workItem from="1586394581180" duration="699000" />
+      <workItem from="1586395891747" duration="1000" />
+      <workItem from="1586402924277" duration="46000" />
+      <workItem from="1586403416893" duration="1773000" />
+      <workItem from="1586406161224" duration="148000" />
+      <workItem from="1586406323379" duration="2000" />
+      <workItem from="1586463763260" duration="34000" />
+      <workItem from="1586463799936" duration="5000" />
+      <workItem from="1586463811360" duration="16000" />
+      <workItem from="1586464222581" duration="412000" />
+      <workItem from="1586464805856" duration="1119000" />
+      <workItem from="1586537910649" duration="1298000" />
+      <workItem from="1586629607875" duration="45000" />
+      <workItem from="1587857781209" duration="284000" />
+      <workItem from="1588490823375" duration="175000" />
+      <workItem from="1588527895580" duration="783000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <envs>
+      <env key="CONDA_DEFAULT_ENV" value="csci571hw8" />
+      <env key="CONDA_PROMPT_MODIFIER" value="(csci571hw8) " />
+    </envs>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606107478469">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="634" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1606107478469" />
+  </component>
+</project>

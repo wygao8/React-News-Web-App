@@ -1,0 +1,30 @@
+{
+  "name": "hw8express",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "^4.17.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1",
+    "request": "^2.88.2",
+    "styled-components": "^5.0.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.5",
+    "nodemon": "^2.0.3"
+  },
+  "description": "csci571hw8",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC"
+}
